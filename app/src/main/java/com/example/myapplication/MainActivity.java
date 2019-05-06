@@ -6,7 +6,7 @@ import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
 
     int l;
-    int a= 2;
+    int a= 244;
     int b = 31;
 
     @Override
