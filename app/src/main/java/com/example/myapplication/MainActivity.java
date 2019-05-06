@@ -11,6 +11,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         int l = 1;
+        int a= 2;
+        int b = 3;
     }
 
 //This is a test program
