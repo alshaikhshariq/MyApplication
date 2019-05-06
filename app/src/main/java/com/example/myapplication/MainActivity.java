@@ -9,8 +9,15 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        int l = 1;
     }
 
 //This is a test program
 
+
+    @Override
+    protected void onStart() {
+        super.onStart();
+    }
 }
